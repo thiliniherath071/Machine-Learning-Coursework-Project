@@ -1,12 +1,6 @@
-# Machine-Learning-Project
-The project will require to analyse one or more real-world
-datasets of your choice. You can use the OpenML website, the UCI repository, or
-any other open access domain to select your dataset(s).
-The project will consist of completing the following three tasks that can be
-implemented on one or more of your chosen real-world datasets.
-1. Unsupervised Learning: where the problem consists of identifying
-homogeneous population groups or dimension reduction techniques, which
-can then be used in the context of the empirical application
-2. Regression: where the problem consists of continuous target variable(s).
-3. Classification: where problem consists of categorical target variable(s).
+# Introduction
+This report presents an analysis of credit card fraud detection using various machine learning techniques. The primary objectives are to identify homogeneous population groups, predict continuous target variables, and classify categorical target variables. The dataset used in this analysis is sourced from Kaggle’s Credit Card Fraud Detection Dataset 2023. The analysis includes exploratory data analysis, unsupervised learning using K-means clustering and PCA, regression analysis, and classification tasks.
+The regression analysis part of this report utilizes the Adalone dataset from the UCI data library. The main goal of related to this dataset is to predict the age of Adalone base on physical measurements. For this, multiple linear regression, Ridge regression, and Cat-boosing method are employed.
+
+
    
